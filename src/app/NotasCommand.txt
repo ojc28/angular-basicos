@@ -1,0 +1,5 @@
+Correr Aplicacion
+ng serve -o 
+
+Creación de un componente
+ng g c heroes/listado
